@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-from sklearn.utils.validation import check_array
+#from sklearn.utils.validation import check_array
 
 import joblib
 st.title("Prédiction de la demission d'un membre du personnel de l'entreprise")
